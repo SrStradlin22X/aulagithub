@@ -6,7 +6,5 @@ public class Main {
 		System.out.println("adicionando um teste.");
 		System.out.println("adicionando um teste.");
 		System.out.println("adicionando um teste.");
-
 	}
-
 }
